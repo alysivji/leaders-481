@@ -21,15 +21,19 @@ Paper on:
 
 ## Session 1
 
-### Homework
+### Readings
 
-#### Readings
+* Chapter 1: Introduction
 
-* Chapter 14: Team Leadership**
+## Session 2
+
+### Readings
+
+* Chapter 14: Team Leadership
 * Chapter 15: Gender and Leadership
 * Chapter 16: Culture and Leadership
 
-#### Group Presentation
+### Group Presentation
 
 *Chapter 15: Team Leadership*
 
@@ -37,7 +41,75 @@ Paper on:
 * 3 important take-away points
 * Create an interactive group activity
 
-#### Turn In
+### Turn In
 
-Assessment from each chapter
-Brief reflection (paragraph) on what you got out of it
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 3
+
+### Readings
+
+* Chapter 2: Trait Approach
+* Chapter 3: Skills Approach
+
+### Group Debate
+
+*Chapter 2: Traits Approach*
+
+Structure it either via debate against chapter 3 or against what book says.
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 4
+
+### Readings
+
+* Chapter 4: Behaviorial Approach
+* Chapter 5: Situational Approach
+
+### Group Debate
+
+`None` for the Wildcats
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 5
+
+### Readings
+
+* Chapter 6: Path-Goal Theory
+* Chapter 7: Leader-Member Exchange Theory
+
+### Group Debate
+
+*Chapter 7: Leader-Member Exchange Theory*
+
+Structure it either via debate against chapter 6 or against what book says.
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 6
+
+### Readings
+
+* Chapter 9: Authentic Approach
+* Chapter 12: Psychodynamic Approach
+
+### Group Debate
+
+`None` for the Wildcats
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
