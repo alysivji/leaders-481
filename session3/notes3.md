@@ -40,12 +40,12 @@ Stogdill identified leadership traits that showed how leaders were different fro
 
 |Paper|Traits|
 |-|-|
-|Stogdill (1948)|* intelligence * alertness * insight * responsibility * initiative * persistence * self-confidence * sociability|
-|Mann (1959)|* intelligence * masculinity * adjustment * dominance * extraversion * conservatism|
-|Stogdill (1974)|* achievement * persistence * insight * initiative * self-confidence * responsibility * cooperativeness * tolerance * influence * sociability|
-|Lord, DeVader, and Alliger (1986)|* intelligence * masculinity * dominance|
-|Kirkpatrick and Locke (1991)|* drive * motivation * integrity * confidence * cognitive ability * task knowledge|
-|Zaccaro, Kemp, and Bader (2004)|* cognitive abilities * extraversion * conscientiousness * emotional stability * openness * agreeableness * motivation * social intelligence * self-monitoring * emotional intelligence * problem solving|
+|Stogdill (1948)|intelligence<br/>alertness<br/>insight<br/>responsibility<br/>initiative<br/>persistence<br/>self-confidence<br/>sociability|
+|Mann (1959)|intelligence<br/>masculinity<br/>adjustment<br/>dominance<br/>extraversion<br/>conservatism|
+|Stogdill (1974)|achievement<br/>persistence<br/>insight<br/>initiative<br/>self-confidence<br/>responsibility<br/>cooperativeness<br/>tolerance<br/>influence<br/>sociability|
+|Lord, DeVader, and Alliger (1986)|intelligence<br/>masculinity<br/>dominance|
+|Kirkpatrick and Locke (1991)|drive<br/>motivation<br/>integrity<br/>confidence<br/>cognitive ability<br/>task knowledge|
+|Zaccaro, Kemp, and Bader (2004)|cognitive abilities<br/>extraversion<br/>conscientiousness<br/>emotional stability<br/>openness<br/>agreeableness<br/>motivation<br/>social intelligence<br/>self-monitoring<br/>emotional intelligence<br/>problem solving|
 
 ### Big Five Personality Factors
 
@@ -78,17 +78,17 @@ Judge et al. (2002) found a strong relationship between the Big Five traits and 
 #### Strengths
 
 * intuitive
-    * built on the premise that leaders are different and their differences reside in the special traits they possess
+   * built on the premise that leaders are different and their differences reside in the special traits they possess
 * century of research to back it up
-    * not a great point, but longevity of research lends credibility
+   * not a great point, but longevity of research lends credibility
 * focuses on the leader vs followers or situation
 * gives us benchmarks to shoot for
 
 #### Criticisms
 
 * "definite list" of leadership traits
-    * LOTS of traits
-    * studies have ambiguous / uncertain findings
+   * LOTS of traits
+   * studies have ambiguous / uncertain findings
 * doesn't take situation into account
 * subjective in how you want to see the traits in leaders
 * identified traits without addressing how leadership traits affect group members and their work
