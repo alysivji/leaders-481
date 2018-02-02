@@ -87,11 +87,9 @@ Structure it either via debate against chapter 3 or against what book says.
 * Chapter 6: Path-Goal Theory
 * Chapter 7: Leader-Member Exchange Theory
 
-### Group Debate
+### Group Presentation
 
 *Chapter 7: Leader-Member Exchange Theory*
-
-Structure it either via debate against chapter 6 or against what book says.
 
 ### Turn In
 
@@ -102,7 +100,22 @@ Structure it either via debate against chapter 6 or against what book says.
 
 ### Readings
 
+* Chapter 8: Transformational Approach
 * Chapter 9: Authentic Approach
+
+### Group Debate
+
+`None` for the Wildcats
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 7
+
+### Readings
+
 * Chapter 12: Psychodynamic Approach
 
 ### Group Debate
@@ -113,3 +126,50 @@ Structure it either via debate against chapter 6 or against what book says.
 
 * Assessment from each chapter
 * Brief reflection (paragraph) on what you got out of it
+* Book Report (4 - 6 pg)
+
+## Session 8
+
+### Readings
+
+* Chapter 10:
+* Chapter 11:
+
+### Group Debate
+
+`None` for the Wildcats
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 9
+
+### Readings
+
+* Chapter 12
+* Chapter 13
+
+### Group Debate
+
+`None` for the Wildcats
+
+### Turn In
+
+* Assessment from each chapter
+* Brief reflection (paragraph) on what you got out of it
+
+## Session 10
+
+### Readings
+
+`None`
+
+### Group Debate
+
+`None` for the Wildcats
+
+### Turn In
+
+* Final Paper (7 - 10 pg)
