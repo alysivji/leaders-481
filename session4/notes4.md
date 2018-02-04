@@ -1,29 +1,29 @@
 # Session 4
 
 ## Learning Objectives
+Explain the “Style Approach” and its central purpose.
+Evaluate individual orientation using the “Style Questionnaire."
+Discuss “Situational Leadership.”
+Identify the characteristics of “Directive” and “Supportive” behaviors.
+Identify the four levels by which employee development can be classified.
 
-* Define “Contingency Theory.”
-* Explain the three factors that need to be assessed when applying “Contingency Theory” to a situation.
-* Analyze individual results on the Least Preferred Coworker (LPC) scale.
-* Explain each of the four leader behaviors in “Path-Goal Theory."
-* Identify the subordinate characteristics that influence how workers interpret a leader’s behavior.
-* Identify the task characteristics that influence how workers interpret a leader’s behavior.
-* Identify leadership style using Path-Goal Leadership Questionnaire.
+## Discussion 1: Leadership & Motivation
 
-## Discussion 1: Mars Rising - The Human Factor Ep. 4
+Does a leader’s motivation for adapting his or her leadership style have any effect on followers?  In other words, would a leader with a high concern for task differ from a leader with a high concern for relationships? Explain your answer.
 
-What does the title mean to you? How does NASA define leadership? Explain your impression of this video.
+## Discussion 2: Situational Leadership
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fvAQ42Yh8M8" target="_blank"><img src="http://img.youtube.com/vi/fvAQ42Yh8M8/0.jpg"
-alt="Leadership Video" width="240" height="180" border="10" /></a>
+The fundamental framework of the Situational Leadership Theory is that there is no single "best" style of leadership. Effective leadership is task-relevant and that the most successful leaders are those that adapt their leadership style to the Maturity ("the capacity to set high but attainable goals, willingness and ability to take responsibility for the task, and relevant education and/or experience of an individual or a group for the task) of the individual or group they are attempting to lead/influence.
 
-## Discussion 2: Safeguarding Against Failure
+Use YOUTUBE to find two video clips that represent the framework of situation leadership. These video clips should represent a good example of situational leadership and an example of poor situational leadership. Please explain your answers.
 
-According the path-goal theory of leadership, the leader has three major responsibilities: clarify the path so subordinates know which way to go, remove roadblocks that are stopping them from getting there, and increase the rewards along the route. This approach assumes that there is one right way of achieving a goal and that the leader can see it and the follower cannot. This approach can be extremely successful or dreadfully disastrous. What safe guards might an organization or leader take in order to safeguard against failures? Have you witnessed this approach to leadership? What was the result?
+Examples:
+* Remember The Titans, "Attitude Reflects Leadership"
+* The Great Santini, "Introducing The Great Santini"
 
-## Discussion 3: Discussion: The Contingency Theory
+## Discussion 3: Discussion: Leadership Style
 
-Explain how the contingency theory shifted the focus from static leadership traits, skills, and behaviors to a leader’s ability to evolve based on situational variables.
+Leadership style is the behavior and approach of providing direction, implementing plans, and motivating people. Although good leaders use all three styles, with one normally dominant, bad leaders tend to stick with one style. Why? Can leadership style or behavior be developed? Give some specific examples.
 
 ## Chapter 4: Behavioral Approach
 
