@@ -1,4 +1,4 @@
-## Session 5
+# Session 5
 
 * Define “Contingency Theory.”
 * Explain the three factors that need to be assessed when applying “Contingency Theory” to a situation.
