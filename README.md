@@ -116,7 +116,7 @@ Structure it either via debate against chapter 3 or against what book says.
 
 ### Readings
 
-* Chapter 12: Psychodynamic Approach
+`None`
 
 ### Group Debate
 
@@ -134,8 +134,7 @@ Structure it either via debate against chapter 3 or against what book says.
 
 ### Readings
 
-* Chapter 10: Servant Leadership
-* Chapter 11: Adaptive Leadership
+`None`
 
 ### Group Debate
 
@@ -143,6 +142,7 @@ Structure it either via debate against chapter 3 or against what book says.
 
 ### Turn In
 
+*
 * Assessment from each chapter
 * Brief reflection (paragraph) on what you got out of it
 
@@ -150,6 +150,8 @@ Structure it either via debate against chapter 3 or against what book says.
 
 ### Readings
 
+* Chapter 10: Servant Leadership
+* Chapter 11: Adaptive Leadership
 * Chapter 12: Psychodyanmic Approach
 * Chapter 13: Leadership Ethics
 
@@ -161,6 +163,7 @@ Structure it either via debate against chapter 3 or against what book says.
 
 * Assessment from each chapter
 * Brief reflection (paragraph) on what you got out of it
+* For Chapter 12: do [Myers-Briggs test](http://www.humanmetrics.com/cgi-win/jtypes2.asp) on humanmetrics.com
 
 ## Session 10
 
@@ -174,4 +177,5 @@ Structure it either via debate against chapter 3 or against what book says.
 
 ### Turn In
 
+* Discuss how class went
 * Final Paper (7 - 10 pg)
