@@ -45,3 +45,41 @@
 ### Criticisms
 
 * focuses on dysfunction
+
+## Chapter 13: Leadership Ethics
+
+> Ethics is concerned with the kinds of values and morals an individual or a society finds desirable or appropriate. Furthermore, ethics is concerned with the virtuousness of individuals and their motives. Ethical theory provides a system of rules or principles that guide us in making decisions about what is right or wrong and good or bad in a particular situation. It provides a basis for understanding what it means to be a morally decent human being.
+
+<img src="kohlberg_stages_of_moral_development.png" />
+
+<img src="ethical_theories_based_on_selfinterest_vs_interestforothers.png" />
+
+> According to Heifetz, leadership involves the use of authority to help followers deal with the conflicting values that emerge in rapidly changing work environments and social cultures. It is an ethical per- spective because it speaks directly to the values of workers. For Heifetz (1994), leaders must use authority to mobilize people to face tough issues.
+
+> Burns’s (1978) perspective argues that it is impor- tant for leaders to engage themselves with followers and help them in their personal struggles regarding conflicting values. The resulting connection raises the level of morality in both the leader and the follower.
+
+<img src="toxic_triangle.png" />
+
+### Principles of Ethical Leadership
+
+<img src="principles_of_ethical_leadership.png" />
+
+#### Respecting Others
+
+> Respect means that a leader listens closely to followers, is empathic, and is tolerant of opposing points of view. It means treating followers in ways that confirm their beliefs, attitudes, and values. When a leader exhibits respect to followers, followers can feel competent about their work. In short, leaders who show respect treat others as worthy human beings.
+
+#### Serve Others
+
+> The idea of leaders serving others was more deeply explored by Robert Greenleaf (1970, 1977), who developed the servant leadership approach.
+
+#### Just
+
+> Ethical leaders are concerned about issues of fairness and justice. They make it a top priority to treat all of their followers in an equal manner. Justice demands that leaders place issues of fairness at the center of their decision making. As a rule, no one should receive special treatment or special consid- eration except when his or her particular situation demands it. When indi- viduals are treated differently, the grounds for different treatment must be clear and reasonable, and must be based on moral values.
+
+#### Honest
+
+> When leaders are not honest, others come to see them as undependable and unreliable. People lose faith in what leaders say and stand for, and their respect for leaders is diminished. As a result, the leader’s impact is compromised because others no longer trust and believe in the leader.
+
+#### Build Community
+
+> An ethical leader takes into account the purposes of everyone involved in the group and is attentive to the interests of the community and the culture. We need to pay attention to how the changes proposed by a leader and followers will affect the larger organization, the community, and society. An ethical leader is concerned with the common good, in the broadest sense.
