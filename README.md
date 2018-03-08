@@ -142,7 +142,6 @@ Structure it either via debate against chapter 3 or against what book says.
 
 ### Turn In
 
-*
 * Assessment from each chapter
 * Brief reflection (paragraph) on what you got out of it
 
@@ -179,3 +178,9 @@ Structure it either via debate against chapter 3 or against what book says.
 
 * Discuss how class went
 * Final Paper (7 - 10 pg)
+    * Where you were, where you are, and where you want to be
+    * Recognize leadership in others that you might wantt o emulate
+    * Who had an impact on you
+    * What things did you learn in this class to help you get to where you want to be
+    * Who do you want to become
+    * What's your path on getting somewhere
